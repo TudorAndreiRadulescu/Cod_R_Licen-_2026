@@ -1,0 +1,11 @@
+"Indicator","Series","Mean","Median"
+"Volatility (90d)","GMV",0.011109,0.009582
+"Volatility (90d)","Singles (min)",0.014602,0.013411
+"Volatility (90d)","Singles (median)",0.021349,0.019315
+"Volatility (90d)","Singles (max)",0.040567,0.033289
+"Volatility (90d)","Singles (average)",0.014907,0.013013
+"Sharpe (90d)","GMV",0.96082,0.704629
+"Sharpe (90d)","Singles (min)",-1.73392,-1.622556
+"Sharpe (90d)","Singles (median)",0.473165,0.527742
+"Sharpe (90d)","Singles (max)",2.614625,2.524192
+"Sharpe (90d)","Singles (average)",0.74872,0.83238
